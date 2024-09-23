@@ -1,4 +1,4 @@
-# Jquery buttons to reveal hidden section
+# Contact Form
 
 This is a simple contact form I created for [swanleyhypnotherapist.co.uk](https://swanleyhypnotherapist.co.uk). I created it as I wanted a custom design and user flow. 
 
